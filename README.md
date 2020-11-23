@@ -4,9 +4,6 @@ In this code we covered the following modules:
 
 
 EnQueue()
-
 DeQueue()
-
 isEmpty()
-
 Display()
